@@ -1,0 +1,26 @@
+/*==========================================
+			Bootstap 3 Media Queries
+===========================================*/
+
+/* Large Devices (Desktops & Laptops) */
+@media (min-width: 1200px) {
+
+}
+
+/* Medium Devices (Landscape Tablets & Medium Desktops) */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/* Small Devices (Portait Tablets & Small Desktops) */
+@media (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+/* Extra Small Devices (Landscape Phones & Portait Tables) */
+@media (max-width: 767px) {
+	/*Nav mobile*/
+    #mobile-nav-open-btn{
+        display: block;
+    }
+}
